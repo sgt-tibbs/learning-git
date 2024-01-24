@@ -1,0 +1,9 @@
+Initialized Git, configured user, cloned repository, added a file, committed, and pushed to GitHub.
+.
+..
+alainpangit.txt
+day4-git-summary.txt
+day4-repo-contents.txt
+firstfile.txt
+.git
+README.md
